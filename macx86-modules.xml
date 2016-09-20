@@ -1,0 +1,50 @@
+<?xml version='1.0' ?>
+<!-- $Header: /cvs/nvd/MakeExport/macppc-5-1-modules.xml,v 1.2 2009/06/01 22:44:25 frank Exp $ -->
+<Modules>
+  <Module Name='CACertificates/cacert.pem'     Product='RAM' Stamp='No'/>
+  <Module Name='edmtcp.dylib'                  Product='RAM' Stamp='Yes'/>
+  <Module Name='edmxtcp.bundle'                Product='RAM' Stamp='Yes'/>
+  <Module Name='hide'                          Product='RAM' Stamp='Yes'/>
+  <Module Name='hwinfo.rex'                    Product='RAM' Stamp='No'/>
+  <Module Name='nvdbdiff.dylib'                Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdcmpex.dylib'                Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdhttp.bundle'                Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdhttp.dylib'                 Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdhttps.bundle'               Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdhttps.dylib'                Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdkit'                        Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdtcps.bundle'                Product='RAM' Stamp='Yes'/>
+  <Module Name='nvdtk'                         Product='RAM' Stamp='Yes'/>
+  <Module Name='postinst'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='productline'                   Product='RAM' Stamp='Yes'/>
+  <Module Name='radbootx'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radcalis'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radconct'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radcopy'                       Product='RAM' Stamp='Yes'/>
+  <Module Name='raddalis'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radexecd'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radical.dylib'                 Product='RAM' Stamp='Yes'/>
+  <Module Name='radiprms'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radlicns'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radmntr'                       Product='RAM' Stamp='Yes'/>
+  <Module Name='radnotfy'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radpinit'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radrexx'                       Product='RAM' Stamp='Yes'/>
+  <Module Name='radsched'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radsetct'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radsetvw'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radskman'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radsort'                       Product='RAM' Stamp='Yes'/>
+  <Module Name='radstate'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radstgrq'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radtimeq'                      Product='RAM' Stamp='Yes'/>
+  <Module Name='radver.bundle'                 Product='RAM' Stamp='Yes'/>
+  <Module Name='rexx.dylib'                    Product='RAM' Stamp='Yes'/>
+  <Module Name='sample.sh'                     Product='RAM' Stamp='No'/>
+  <Module Name='upgrdmaint'                    Product='RAM' Stamp='Yes'/>
+  <Module Name='vars.dylib'                    Product='RAM' Stamp='Yes'/>
+  <Module Name='zsyslib.dylib'                 Product='RAM' Stamp='Yes'/>
+  <Module Name='libcrypto.1.0.0.dylib'         Product='RAM' Stamp='No'/>
+  <Module Name='libssl.1.0.0.dylib'            Product='RAM' Stamp='No'/>
+  <Module Name='radntfyc'	               Product='RAM' Stamp='Yes'/>
+</Modules>

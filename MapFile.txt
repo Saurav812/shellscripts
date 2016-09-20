@@ -1,0 +1,81 @@
+execute.vcproj execute.exe
+radalert.vcproj Radalert.exe
+radbootw.vcproj radbootw.exe
+radcini.vcproj radcini.exe
+radclnk.vcproj radclnk.exe
+radconct.vcproj radconct.exe
+radconsw.vcproj radconsw.exe
+radcpak.vcproj radcpak.exe
+radcrecv.vcproj radcrecv.exe
+raddini.vcproj raddini.exe
+raddlnk.vcproj raddlnk.exe
+raddpak.vcproj raddpak.exe
+edmexecd.vcproj radexecd.exe
+radexect.vcproj RADEXECT.exe
+radgetproxy.vcproj RadGetProxy.exe
+radiamsiexe.vcproj Radiamsi.exe
+radidgrp.vcproj radidgrp.exe
+radkill.vcproj radkill.exe
+radlkm.vcproj radlkm.exe
+radmapps.vcproj radmapps.exe
+radntfyc.vcproj radntfyc.exe
+edmntsrv.vcproj RADNTSRV.exe
+radpinit.vcproj RADPINIT.exe
+radpnlwr.vcproj radpnlwr.exe
+radreg32.vcproj radreg32.exe
+radrexxw.vcproj RadREXXW.exe
+edmsched.vcproj radsched.exe
+radskman.vcproj radskman.exe
+radstate.vcproj radstate.exe
+radstgms.vcproj radstgms.exe
+radstgrq.vcproj radstgrq.exe
+radsvman.vcproj Radsvman.exe
+radtimeq.vcproj RADTIMEQ.exe
+radtray.vcproj RadTray.exe
+radwts.vcproj RadWTS.exe
+rimdiff.vcproj rimdiff.exe
+rimfscan.vcproj rimfscan.exe
+rimwbem.vcproj rimwbem.exe
+runasuser.vcproj runasuser.exe
+upgrdmaint.vcproj upgrdmaint.exe
+edmwskt.vcproj edmwskt.dll
+edmxtcp.vcproj edmxtcp.dll
+nvdagent.vcproj nvdagent.dll
+nvdbdiff.vcproj nvdbdiff.dll
+nvdcmpex.vcproj nvdcmpex.dll
+nvdhttp.vcproj nvdhttp.dll
+nvdhttps.vcproj nvdhttps.dll
+nvdtcps.vcproj nvdtcps.dll
+radagent.vcproj radagent.dll
+radapi.vcproj radapi.dll
+radiamsidll.vcproj Radiamsi.dll
+radical.vcproj radical.dll
+radl10n.vcproj radl10n.dll
+radrexx.vcproj radrexx.dll
+radui.vcproj radui.dll
+radver.vcproj radver.dll
+vars.vcproj vars.dll
+zsys.vcproj zsys.dll
+#nvdapi.vcproj nvdapi.dll
+hide.vcproj hide.exe
+
+ConnectDefer.vcproj ConnectDefer.exe
+
+
+RadUIObjects.csproj RadUIObjects.dll RadUICultureStrings.dll
+RadUILogon.csproj RadUILogon.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIPreferPanel.csproj RadUIPreferPanel.dll RadUIObjects.dll RadUIHistory.dll RadUICultureStrings.dll
+RadUIStatistics.csproj RadUIStatistics.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIBanner.csproj RadUIBanner.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIHistory.csproj RadUIHistory.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIShell.csproj RadUIShell.exe
+RadUI.csproj RadiaUI.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIBandwidth.csproj RadUIBandwidth.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIOutBar.csproj RadUIOutBar.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIProgressBar.csproj RadUIProgressBar.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIServiceList.csproj RadUIServiceList.dll RadUIProgressBar.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIDialog.csproj RadUIDialog.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIScheduler.csproj RadUIScheduler.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIAbout.csproj RadUIAbout.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIVerifyError.csproj RadUIVerifyError.dll RadUIObjects.dll RadUICultureStrings.dll
+RadUIMandatory.csproj RadUIMandatory.dll RadUIProgressBar.dll RadUIObjects.dll RadUICultureStrings.dll
